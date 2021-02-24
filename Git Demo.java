@@ -1,5 +1,5 @@
 /*****
- * Steven Lahti
+ * name here 
  ******/
 public class GitDemo {
     
